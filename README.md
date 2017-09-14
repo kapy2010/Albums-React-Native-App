@@ -6,4 +6,4 @@ To Run this app follow the steps below:
 `npm install`
 
 * Run on ios simulator
-'react-native run-ios'
+`react-native run-ios`
